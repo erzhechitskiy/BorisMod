@@ -1,5 +1,17 @@
 # Boris Workflow for Claude Code
 
+## Why BorisMod?
+
+Boris Cherny's 6-step system adds tracking discipline: 
+- write the plan to tasks/todo.md
+- verify before starting 
+- mark items complete as you go
+- explain changes at each step
+- document results
+- capture lessons by updating LESSONS.md after every correction.
+
+> "Every time Claude makes a mistake and gets corrected, Boris has it write a rule that prevents the same mistake. Over time, Claude literally teaches itself to be better at your specific project."
+
 A self-improving lesson capture and task tracking system for Claude Code, based on Boris Cherny's methodology. Claude writes a rule after every correction, teaching itself to avoid the same class of mistake in future sessions.
 
 **Two modes** to fit your workflow:
